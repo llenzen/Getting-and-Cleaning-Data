@@ -9,10 +9,12 @@
   e. STANDING
   f. LAYING
 3.  The measurement columns are named based on the following pattern:
-  (t|f) - time or Fourier Transform
+  (t|f) - time or frequency
   (Body|Gravity) - body or gravity acceleration
   (Acc|Gyro) - accelerometer or gyroscopic measurement
   (Jerk) - if a jerk measurement
   (Mag) - magnetometer
   (Std|Mean) - standard deviation or mean  
   (X|Y|X) - measured in the X, Y, or Z axis, if applicable
+
+
