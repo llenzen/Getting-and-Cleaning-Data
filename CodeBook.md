@@ -1,6 +1,6 @@
 # Code Book for tidy.txt
 
-1.  subject_id is one of thirty subjects whose activities were measured
+1.  id is one of thirty subjects whose activities were measured
 2.  the acitivity column is one of six activities 
   a. WALKING
   b. WALKING_UPSTAIRS
