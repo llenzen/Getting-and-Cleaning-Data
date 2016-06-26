@@ -1,6 +1,7 @@
 # Code Book for tidy.txt
+# This file represents the mean value for each subject,activity pair
 
-1.  id is one of thirty subjects whose activities were measured
+1.  subject is one of thirty subjects whose activities were measured
 2.  the acitivity column is one of six activities 
   a. WALKING
   b. WALKING_UPSTAIRS
